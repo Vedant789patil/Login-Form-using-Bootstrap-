@@ -32,5 +32,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them to your branch.
 4. Submit a pull request with a detailed description of your changes.
 
+
 ## License
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both personal and commercial purposes. See the [LICENSE](LICENSE) file for more details.
